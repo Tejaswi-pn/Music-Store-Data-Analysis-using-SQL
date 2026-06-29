@@ -158,6 +158,11 @@ This project helped strengthen knowledge of:
 - Business Intelligence
 
 ---
+## 📷 Project Preview
+![Uploading Screenshot 2025-08-15 111819.png…]()
+
+
+---
 
 ## Future Improvements
 
