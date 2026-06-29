@@ -173,8 +173,3 @@ This project helped strengthen knowledge of:
 
 **Vedulla Tejaswi**
 
-LinkedIn:
-(Add your LinkedIn URL)
-
-GitHub:
-(Add your GitHub URL)
