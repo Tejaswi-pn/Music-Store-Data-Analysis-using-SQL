@@ -159,7 +159,7 @@ This project helped strengthen knowledge of:
 
 ---
 ## 📷 Project Preview
-![Uploading Screenshot 2025-08-15 111819.png…]()
+<img width="993" height="720" alt="Screenshot 2025-08-15 111819" src="https://github.com/user-attachments/assets/14d9df39-8797-455d-9173-33793ba452e9" />
 
 
 ---
